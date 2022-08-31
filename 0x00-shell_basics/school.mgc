@@ -1,2 +1,3 @@
 #!/bin/bash
-file --mime-type -m school.mgc * ``SCHOOL'' 
+0 string SCHOOL School date
+!:mime School
