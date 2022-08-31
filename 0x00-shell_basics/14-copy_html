@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R -u -p /source /destination
+cp -u ./*.html ../
