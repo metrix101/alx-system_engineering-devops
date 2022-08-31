@@ -1,1 +1,1 @@
-Creating read me file for devops
+script that prints the absolute path name of the current working directory.
